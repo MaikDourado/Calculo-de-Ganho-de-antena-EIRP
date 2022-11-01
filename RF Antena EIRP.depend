@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1665601971 source:c:\users\maik.dourado\documents\projeto portifolio\rf antena eirp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
